@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Recommender</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container-flex">
+        <div class="card">
+            <h2>🎬 What genres do you like?</h2>
+            <form method="post">
+                {% for genre in ["Action", "Horror", "Drama", "Sci-Fi", "Thriller", "Comedy", "Romance"] %}
+                    <div class="input-row">
+                        <label>{{ genre }} (0 or 1):</label>
+                        <input type="number" name="{{ genre }}" min="0" max="1" step="0.01" required>
+                    </div>
+                {% endfor %}
+                <button type="submit">Get Recommendation</button>
+            </form>
+
+            {% if recommended %}
+                <h3>🔥 Recommended Movie: {{ recommended }}</h3>
+            {% endif %}
+        </div>
+        <div class="explanation">
+            <div style="display: flex; justify-content: flex-end; margin-bottom: 6px;">
+                <select id="lang-select" style="font-size:0.95em; border-radius:5px; padding:2px 6px;">
+                    <option value="en" selected>English</option>
+                    <option value="pt">Português</option>
+                </select>
+            </div>
+            <div id="explanation-en">
+                <h2>About the Project</h2>
+                <p>
+                    This is a movie recommendation system powered by Artificial Intelligence.<br><br>
+                    <b>How to use?</b><br>
+                    For each genre, enter a value from <b>0</b> (you don't like it) to <b>1</b> (you love it) to indicate how much you enjoy that genre. For example, if you like Action a lot, put 1; if you don't like Horror, put 0; and you can use values like 0.5 if you are neutral.<br><br>
+                    After filling your preferences, click <b>Get Recommendation</b> and the AI will suggest a movie that best matches your taste, using machine learning techniques.<br><br>
+                    <b>How does it work?</b><br>
+                    - The model was trained using a simple dataset of movies and user preferences found on the internet, mainly based on genres. It uses Python, Flask, and basic machine learning libraries.<br><br>
+                    <b>Stack:</b> Python, Flask, AI, HTML, CSS.<br>
+                </p>
+            </div>
+            <div id="explanation-pt" style="display:none;">
+                <h2>Sobre o Projeto</h2>
+                <p>
+                    Este é um sistema de recomendação de filmes baseado em Inteligência Artificial.<br><br>
+                    <b>Como usar?</b><br>
+                    Para cada gênero, informe um valor de <b>0</b> (não gosta) até <b>1</b> (gosta muito) para indicar o quanto você aprecia aquele tipo de filme. Por exemplo, se adora Ação, coloque 1; se não gosta de Terror, coloque 0; e pode usar valores como 0.5 se for indiferente.<br><br>
+                    Depois de preencher suas preferências, clique em <b>Get Recommendation</b> e a IA irá sugerir um filme que mais combina com seu gosto, usando técnicas de aprendizado de máquina.<br><br>
+                    <b>Como funciona?</b><br>
+                    - O modelo foi treinado com um conjunto de dados simples de filmes e preferências de usuários encontrados na internet, principalmente baseados em gêneros. Utiliza Python, Flask e bibliotecas básicas de aprendizado de máquina.<br><br>
+                    <b>Stack:</b> Python, Flask, IA, HTML, CSS.<br>
+                </p>
+            </div>
+            <script>
+                const select = document.getElementById('lang-select');
+                const en = document.getElementById('explanation-en');
+                const pt = document.getElementById('explanation-pt');
+                select.addEventListener('change', function() {
+                    if (this.value === 'pt') {
+                        en.style.display = 'none';
+                        pt.style.display = '';
+                    } else {
+                        en.style.display = '';
+                        pt.style.display = 'none';
+                    }
+                });
+            </script>
+        </div>
+    </div>
+</body>
+</html>

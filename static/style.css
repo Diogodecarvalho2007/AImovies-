@@ -1,0 +1,154 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #23243a 0%, #1e1e2f 100%);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    background: #23243aee;
+    border-radius: 14px;
+    box-shadow: 0 4px 16px 0 rgba(31, 38, 135, 0.22);
+    padding: 24px 16px 16px 16px;
+    max-width: 340px;
+    width: 100%;
+    margin: 16px 0;
+    border: 1px solid #2d2e4a;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 18px;
+    color: #ffd700;
+    letter-spacing: 1px;
+    font-size: 1.2rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+label {
+    font-size: 0.98rem;
+    margin-bottom: 2px;
+    color: #b3b3cc;
+}
+
+.input-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+input[type="number"] {
+    width: 38px;
+    padding: 4px 6px;
+    font-size: 0.95rem;
+    border-radius: 5px;
+    border: 1px solid #444466;
+    background: #23243a;
+    color: #ffd700;
+    outline: none;
+    transition: border 0.2s;
+}
+input[type="number"]:focus {
+    border: 1.5px solid #ffd700;
+    background: #23243f;
+}
+
+/* Remove as setas dos inputs type number (Chrome, Safari, Edge) */
+input[type="number"]::-webkit-inner-spin-button, 
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+/* Remove as setas dos inputs type number (Firefox) */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+button {
+    padding: 8px;
+    font-size: 1rem;
+    background: linear-gradient(90deg, #4CAF50 60%, #00b894 100%);
+    border: none;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+    border-radius: 7px;
+    margin-top: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    box-shadow: 0 2px 8px 0 rgba(44, 62, 80, 0.10);
+}
+button:hover {
+    background: linear-gradient(90deg, #45a049 60%, #00cec9 100%);
+    transform: translateY(-1px) scale(1.02);
+}
+
+h3 {
+    text-align: center;
+    margin-top: 18px;
+    color: #00ffff;
+    font-size: 1.05rem;
+    letter-spacing: 0.5px;
+}
+
+.container-flex {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0 auto;
+    max-width: 900px;
+    width: 100%;
+}
+
+.explanation {
+    background: #22223b;
+    border-radius: 14px;
+    box-shadow: 0 4px 16px 0 rgba(31, 38, 135, 0.10);
+    padding: 20px 12px 12px 12px;
+    max-width: 280px;
+    width: 100%;
+    color: #e0e0e0;
+    font-size: 0.97rem;
+    line-height: 1.45;
+    border: 1px solid #2d2e4a;
+}
+
+.explanation h2 {
+    color: #ffd700;
+    font-size: 1.05rem;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+@media (max-width: 900px) {
+    .container-flex {
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+    }
+    .explanation {
+        max-width: 98vw;
+        padding: 10px 4px 8px 4px;
+    }
+}
+
+@media (max-width: 600px) {
+    .card {
+        padding: 10px 2px 8px 2px;
+        max-width: 98vw;
+    }
+    h2 {
+        font-size: 1rem;
+    }
+}

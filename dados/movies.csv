@@ -1,0 +1,501 @@
+action,horror,drama,sci_fi,thriller,comedy,romance,movie
+0,0,0,1,0,0,0,The Hunger Games
+1,0,1,0,0,1,0,The Wolf of Wall Street
+0,0,0,0,0,1,0,The Hangover
+0,0,1,0,0,0,0,The Conjuring
+0,1,1,1,0,0,0,Donnie Darko
+0,0,0,1,0,0,1,Arrival
+0,0,0,0,0,1,0,The Hangover
+0,0,1,1,0,0,0,Titanic
+0,1,1,0,1,1,0,Happy Death Day
+0,0,1,0,0,0,1,The Notebook
+0,0,1,1,0,0,0,Interstellar
+1,1,0,0,0,0,0,John Wick
+0,1,0,0,1,0,0,Happy Death Day
+0,1,0,0,1,0,0,The Exorcist
+0,1,0,0,0,0,1,Titanic
+0,1,0,1,1,0,0,Matrix
+1,1,1,1,1,0,1,The Hunger Games
+1,0,0,1,0,0,0,Lucy
+1,0,0,0,0,0,0,Fight Club
+1,0,0,1,1,0,0,Her
+0,0,1,1,1,1,0,Inside Out
+1,1,1,1,0,1,0,Gladiator
+1,1,1,1,0,1,0,John Wick
+1,0,1,1,0,0,0,Gravity
+1,1,1,0,1,1,0,The Shining
+1,1,0,0,0,0,0,Fast and Furious
+1,1,1,1,0,0,0,The Hunger Games
+0,0,1,1,0,1,0,Back to the Future
+0,1,0,1,0,1,1,The Hangover
+1,0,0,1,1,1,0,Back to the Future
+1,0,1,0,0,1,0,Fight Club
+1,0,1,1,0,0,0,Interstellar
+0,0,1,1,0,0,1,Her
+1,1,1,0,0,0,0,John Wick
+0,0,1,1,0,0,0,Arrival
+1,0,1,0,0,1,1,The Notebook
+0,0,1,0,1,1,0,Arrival
+1,0,1,1,0,1,0,Gladiator
+0,1,1,1,0,0,0,Predestination
+0,1,0,1,1,0,1,The Conjuring
+0,1,1,0,1,1,0,The Shining
+0,0,1,1,1,0,0,Split
+0,1,0,0,1,1,0,Happy Death Day
+1,1,0,0,1,0,1,The Conjuring
+1,0,0,1,0,0,0,Lucy
+0,1,0,0,1,0,0,Scream
+1,0,1,0,0,0,0,The Hunger Games
+1,1,0,0,1,1,0,Scream
+0,0,1,0,0,0,1,The Theory of Everything
+0,0,1,1,0,0,0,Arrival
+0,1,1,1,0,0,0,Interstellar
+1,0,0,0,0,1,0,Fast and Furious
+1,0,1,0,0,0,0,Gladiator
+0,1,0,0,1,0,0,Scream
+0,1,1,0,1,0,0,Get Out
+0,1,0,0,0,0,0,The Exorcist
+0,0,0,1,0,0,0,The Hangover
+0,0,0,1,0,1,0,Inception
+1,1,0,1,0,0,0,Lucy
+1,0,1,1,0,0,0,Inception
+0,1,1,0,0,1,0,The Hangover
+0,1,1,1,1,0,0,Donnie Darko
+0,1,1,0,0,0,1,The Shining
+1,1,0,0,0,0,0,The Conjuring
+1,1,1,0,0,0,0,John Wick
+0,0,1,1,1,0,0,The Theory of Everything
+0,0,0,1,0,1,1,Back to the Future
+0,0,1,1,0,0,0,Inception
+0,0,0,0,1,0,0,The Conjuring
+1,0,1,1,0,0,0,Predestination
+0,0,0,1,0,0,1,The Theory of Everything
+0,0,1,1,0,0,0,Predestination
+0,0,1,0,0,0,0,Predestination
+1,0,0,1,0,1,0,The Hangover
+1,0,1,1,0,0,0,Inside Out
+1,0,0,0,1,1,1,Scream
+0,1,0,1,0,0,0,Split
+1,0,0,1,0,1,0,Shrek
+1,0,1,1,0,0,0,Inception
+0,0,1,1,0,0,0,Gravity
+1,0,0,1,1,0,0,Matrix
+0,1,0,0,0,1,0,The Notebook
+0,1,1,0,1,0,0,The Shining
+1,0,0,1,0,0,1,Lucy
+1,0,1,1,0,0,0,Donnie Darko
+1,0,0,1,0,0,0,Matrix
+0,0,0,0,0,1,1,Shrek
+1,1,0,0,0,1,0,Fast and Furious
+0,0,1,0,0,0,0,Arrival
+0,1,1,0,0,0,1,Me Before You
+0,1,1,0,1,1,0,Donnie Darko
+1,0,0,0,0,1,0,Fast and Furious
+1,1,1,1,1,0,0,Split
+0,0,0,0,0,0,1,Predestination
+1,0,1,0,0,0,1,The Theory of Everything
+1,1,1,0,1,0,0,Inception
+0,1,0,1,1,0,0,Donnie Darko
+1,0,1,0,0,1,0,The Wolf of Wall Street
+0,0,1,1,0,0,1,Her
+0,0,1,1,0,1,1,The Theory of Everything
+1,0,0,1,0,1,0,Back to the Future
+0,1,0,0,0,0,0,Get Out
+0,0,0,1,0,1,1,Shrek
+0,0,1,1,1,0,0,Gladiator
+0,1,1,0,0,1,1,The Notebook
+1,0,0,0,0,1,1,Fight Club
+0,1,0,0,0,0,0,Scream
+0,0,0,0,1,1,1,Happy Death Day
+0,0,1,1,0,1,0,Inside Out
+0,0,1,1,0,0,0,Gravity
+0,0,1,1,1,0,0,Interstellar
+1,0,0,1,0,1,0,Gladiator
+1,0,1,0,0,0,0,Fight Club
+1,0,1,0,0,0,0,Inception
+0,1,1,1,0,0,1,Her
+1,1,0,0,0,1,1,Fast and Furious
+0,0,1,1,0,0,0,Inside Out
+0,1,1,1,1,0,0,Donnie Darko
+0,0,1,1,1,0,0,Fight Club
+0,0,0,1,0,1,0,Arrival
+1,0,1,1,0,0,1,Predestination
+0,0,0,0,0,0,0,Interstellar
+0,1,0,1,1,0,0,Get Out
+0,0,1,0,0,0,1,Me Before You
+0,1,0,0,0,0,0,Scream
+0,1,0,1,0,1,0,Donnie Darko
+0,1,0,0,1,1,0,Happy Death Day
+0,1,1,0,0,1,0,Happy Death Day
+1,0,0,1,0,1,0,Matrix
+1,1,1,0,1,1,1,Split
+0,0,1,1,0,0,0,Interstellar
+0,1,0,0,0,0,0,Back to the Future
+0,0,1,1,0,1,0,Inside Out
+0,1,0,0,1,1,1,Scream
+0,0,0,1,0,0,1,Predestination
+0,1,1,0,1,0,1,The Exorcist
+0,1,1,1,0,0,0,Gravity
+0,0,1,1,0,0,0,The Shape of Water
+0,1,1,0,1,0,1,Get Out
+0,0,0,0,0,1,0,Back to the Future
+1,1,0,1,0,0,0,Matrix
+1,0,1,0,0,1,0,Inside Out
+0,0,1,0,1,0,0,The Wolf of Wall Street
+0,0,1,1,0,0,1,Gravity
+1,0,1,0,0,0,0,Matrix
+0,1,0,1,1,0,0,Scream
+0,1,0,0,1,1,0,Scream
+1,1,1,1,0,0,1,The Shape of Water
+0,0,1,0,0,1,0,Inside Out
+0,1,0,0,1,0,0,Scream
+1,0,1,1,1,1,0,Arrival
+0,0,0,1,0,0,1,Lucy
+0,0,0,0,0,1,1,Shrek
+0,1,0,0,1,1,0,Scream
+1,0,0,0,0,1,0,Back to the Future
+0,0,1,1,0,0,0,Arrival
+0,1,0,1,1,0,0,Scream
+0,0,1,1,0,0,1,The Theory of Everything
+1,0,1,0,1,1,0,The Wolf of Wall Street
+0,1,0,0,1,0,0,The Shining
+0,0,1,0,0,1,0,The Wolf of Wall Street
+0,0,1,1,0,0,1,Predestination
+1,1,1,1,1,0,0,Get Out
+0,0,0,1,0,1,1,Back to the Future
+1,0,1,1,1,0,0,The Hunger Games
+0,0,1,1,0,0,1,Her
+1,1,1,0,0,1,0,The Wolf of Wall Street
+0,1,1,1,1,0,0,Get Out
+0,0,1,1,0,1,0,Predestination
+1,1,0,1,0,0,0,Happy Death Day
+0,1,1,0,1,0,1,Get Out
+1,0,1,1,0,0,1,Predestination
+1,0,1,1,0,0,1,Inception
+1,0,0,1,0,0,1,The Hunger Games
+0,1,0,0,1,0,0,Scream
+0,0,0,0,0,1,0,The Hangover
+0,0,1,0,0,1,0,The Hangover
+0,1,0,0,0,1,0,John Wick
+0,1,1,0,1,0,0,The Shining
+0,1,0,0,1,0,1,Titanic
+0,0,1,1,0,0,1,The Theory of Everything
+0,1,1,1,1,0,0,The Conjuring
+0,0,0,0,0,1,1,Fast and Furious
+0,0,1,1,1,0,0,Donnie Darko
+1,0,0,1,0,0,0,Lucy
+0,0,1,1,1,0,1,Inception
+0,1,0,0,0,1,0,Scream
+0,0,1,0,1,1,1,The Hangover
+1,1,1,0,0,0,0,John Wick
+1,0,0,1,1,1,0,Back to the Future
+0,0,0,0,1,1,1,Happy Death Day
+0,1,0,1,0,0,0,Arrival
+0,1,0,0,1,1,0,Scream
+0,1,1,1,0,0,0,Arrival
+1,0,1,0,0,0,1,Me Before You
+1,0,0,0,0,0,0,Lucy
+1,0,1,0,0,0,0,Gladiator
+1,0,1,1,0,1,0,Back to the Future
+0,1,0,1,1,1,0,Happy Death Day
+0,0,1,0,0,0,1,The Theory of Everything
+1,0,1,0,0,1,1,The Notebook
+1,0,0,1,0,1,0,Fast and Furious
+1,0,1,0,1,0,1,The Theory of Everything
+1,0,0,0,1,0,1,Titanic
+0,0,1,0,1,1,0,The Shining
+0,0,1,0,0,0,1,Titanic
+1,0,1,1,0,1,1,Back to the Future
+1,1,0,0,0,0,0,The Hunger Games
+1,0,1,1,0,0,1,Her
+1,1,1,1,1,0,0,Donnie Darko
+0,0,1,0,0,1,1,Shrek
+1,1,1,1,0,0,0,Inception
+0,1,1,1,1,0,0,Happy Death Day
+0,0,0,0,0,1,1,Fast and Furious
+0,0,1,1,0,0,0,Interstellar
+0,1,0,0,1,0,0,The Shining
+1,0,0,1,0,0,0,Matrix
+1,0,1,0,0,0,0,Fight Club
+0,0,0,0,0,1,0,Fast and Furious
+0,0,0,1,0,1,1,Inside Out
+0,1,0,1,1,1,0,Happy Death Day
+0,1,0,1,1,1,0,Happy Death Day
+0,1,0,0,0,0,1,Me Before You
+0,1,1,0,1,0,0,Split
+0,0,0,1,0,1,0,Back to the Future
+0,0,1,0,0,0,1,The Notebook
+0,1,1,1,1,1,0,The Wolf of Wall Street
+0,1,1,1,1,1,0,Donnie Darko
+0,0,1,1,0,0,0,Predestination
+0,0,1,1,0,1,0,Inside Out
+1,1,1,1,0,0,1,Her
+1,1,0,0,0,1,0,John Wick
+0,0,1,0,0,0,1,The Shape of Water
+0,0,1,0,0,1,1,The Notebook
+0,0,0,1,1,0,1,Titanic
+0,0,1,0,0,1,0,Gladiator
+0,0,0,0,0,0,0,Me Before You
+1,0,1,0,0,1,1,Gladiator
+0,0,0,1,1,0,1,Shrek
+0,1,0,0,1,0,0,The Exorcist
+0,0,0,1,1,1,0,Back to the Future
+0,0,1,0,1,1,0,The Hangover
+0,1,1,0,1,0,0,Donnie Darko
+1,0,0,0,1,1,0,Fast and Furious
+0,0,1,0,0,0,1,The Theory of Everything
+1,1,1,1,0,0,1,Inception
+1,0,1,1,1,0,0,Inception
+0,1,0,0,1,1,1,Scream
+0,1,1,1,1,0,0,Donnie Darko
+1,1,1,1,0,0,0,Arrival
+1,0,1,1,0,1,0,The Hunger Games
+0,1,1,0,0,0,1,Titanic
+0,0,1,1,0,1,0,Inception
+0,0,1,1,0,1,0,Back to the Future
+0,0,1,0,0,0,1,Titanic
+0,0,0,0,0,1,0,The Hangover
+0,1,0,0,0,0,0,Shrek
+1,0,0,1,0,0,0,Matrix
+0,0,0,1,0,1,0,Inside Out
+1,0,1,0,0,0,0,Gladiator
+1,1,1,1,0,0,0,Inception
+1,0,1,0,1,1,1,Me Before You
+1,0,1,0,0,0,0,Gladiator
+0,0,1,1,0,0,0,Arrival
+0,0,1,1,1,1,0,Gravity
+0,0,0,1,0,0,0,Arrival
+1,1,1,1,0,0,0,The Hunger Games
+0,1,1,0,1,1,0,Split
+1,0,1,1,0,0,1,The Theory of Everything
+0,1,1,1,0,0,0,Gravity
+1,1,1,1,1,1,0,The Exorcist
+0,1,1,1,1,0,0,Donnie Darko
+0,0,0,1,0,1,0,Inside Out
+1,0,0,0,1,0,0,John Wick
+0,1,1,0,0,0,1,Titanic
+1,1,0,0,0,0,0,John Wick
+0,0,0,1,0,1,1,Back to the Future
+1,0,1,1,1,0,1,The Shape of Water
+0,0,1,0,0,0,0,Fight Club
+0,0,0,0,0,1,0,Shrek
+0,0,0,0,0,1,0,Fast and Furious
+0,1,1,0,0,1,0,The Notebook
+0,0,1,1,0,1,0,Arrival
+1,0,0,1,0,1,0,Back to the Future
+0,0,1,1,0,0,0,Arrival
+0,1,0,1,0,0,0,Gravity
+0,0,1,1,1,0,0,Back to the Future
+0,0,1,0,0,1,0,Me Before You
+0,1,1,0,1,0,1,The Shining
+0,0,0,1,0,1,1,The Theory of Everything
+0,1,0,0,1,0,0,The Conjuring
+0,0,0,1,1,0,1,Interstellar
+1,0,1,0,1,0,0,Fight Club
+1,0,1,1,1,0,1,Her
+1,0,1,0,0,0,0,Gladiator
+1,0,1,0,0,0,0,Gladiator
+0,1,0,0,1,0,0,Scream
+0,1,1,0,0,0,0,Titanic
+1,0,1,0,0,0,0,Fight Club
+0,0,1,1,1,0,0,Predestination
+1,0,1,1,0,0,0,The Hunger Games
+0,0,1,1,0,0,1,Interstellar
+1,0,1,0,0,1,0,Fast and Furious
+0,0,1,1,1,0,0,The Theory of Everything
+0,1,0,0,1,0,1,The Exorcist
+0,1,0,1,0,0,0,The Exorcist
+0,1,0,1,0,1,0,Donnie Darko
+0,0,1,1,0,1,0,Inside Out
+0,0,1,1,1,1,0,The Hunger Games
+1,1,1,0,0,0,0,Split
+1,0,1,0,0,1,1,The Hangover
+1,1,0,0,0,0,0,John Wick
+0,0,0,0,0,1,1,Shrek
+0,0,0,0,0,1,0,Shrek
+1,1,1,0,0,1,1,John Wick
+1,0,0,0,0,0,0,Lucy
+0,0,0,1,0,0,1,Lucy
+0,0,1,1,0,0,0,Arrival
+0,1,0,0,1,0,0,Get Out
+0,0,0,0,0,1,0,Happy Death Day
+0,1,0,1,1,1,0,Scream
+0,1,1,1,1,0,0,Get Out
+1,1,1,0,1,0,1,Split
+0,0,1,1,0,0,0,Arrival
+0,1,0,0,0,0,1,Titanic
+0,0,1,1,0,0,1,Her
+1,0,0,1,0,0,0,Matrix
+0,1,0,1,1,0,0,The Exorcist
+1,0,1,1,1,0,0,The Hunger Games
+0,1,1,1,1,0,1,Me Before You
+1,0,0,1,0,1,1,Shrek
+0,1,1,1,1,0,0,The Conjuring
+1,0,1,0,0,0,1,Titanic
+0,0,1,1,0,1,0,Shrek
+0,1,0,0,1,1,1,Scream
+1,1,1,0,0,0,0,The Shining
+0,1,0,1,0,0,0,Matrix
+0,0,1,0,0,0,1,Titanic
+0,0,0,0,0,0,0,Predestination
+0,0,1,0,0,0,1,Titanic
+0,0,0,0,0,0,0,John Wick
+0,1,1,0,1,0,0,Split
+1,0,0,0,0,0,1,Fight Club
+1,1,0,0,0,0,0,The Exorcist
+1,0,0,1,0,0,0,Inception
+0,0,1,1,1,0,1,The Theory of Everything
+0,0,1,1,0,0,0,Arrival
+0,0,1,1,0,0,0,Predestination
+0,1,0,0,0,1,1,Shrek
+0,1,1,0,1,0,0,The Shining
+0,0,1,0,1,1,0,Scream
+0,0,1,0,0,0,0,The Notebook
+1,1,1,0,0,1,1,Split
+1,0,0,0,0,0,0,Gladiator
+1,1,0,0,0,1,0,Shrek
+0,0,0,1,0,0,1,The Shape of Water
+0,0,1,0,0,1,1,The Hangover
+1,0,0,1,0,0,0,Lucy
+1,1,1,0,0,1,0,The Wolf of Wall Street
+1,0,1,1,0,0,0,Back to the Future
+0,0,1,1,0,0,0,Arrival
+1,0,0,1,1,0,1,Her
+1,1,0,1,0,0,0,Lucy
+1,0,1,0,1,1,0,Lucy
+0,0,1,0,1,1,0,The Notebook
+0,1,0,0,0,0,0,John Wick
+1,0,1,0,0,1,0,The Wolf of Wall Street
+1,1,0,0,0,0,0,John Wick
+0,0,1,0,1,1,1,Titanic
+1,1,1,0,1,1,1,The Notebook
+1,0,1,0,0,1,0,The Wolf of Wall Street
+0,1,1,0,0,1,1,Me Before You
+1,1,0,0,1,0,1,The Shining
+0,0,1,1,0,0,1,The Theory of Everything
+0,1,1,1,1,1,0,Scream
+1,0,1,1,1,1,0,Inside Out
+0,1,1,0,0,0,1,Predestination
+0,0,1,1,0,0,0,Get Out
+1,0,0,1,0,0,1,Matrix
+0,1,0,0,1,1,0,Happy Death Day
+1,0,1,0,0,1,0,Matrix
+1,0,1,0,1,1,0,Fight Club
+0,0,0,1,0,0,0,Back to the Future
+1,1,1,0,0,0,1,Gladiator
+1,0,1,0,0,0,0,Inside Out
+0,0,1,1,0,1,0,Inside Out
+0,1,1,1,0,0,0,Interstellar
+0,1,1,0,1,0,0,The Exorcist
+1,0,0,1,0,0,1,Matrix
+1,0,1,1,0,0,0,The Hunger Games
+1,0,1,1,0,0,0,The Hunger Games
+0,0,1,1,1,0,0,The Hunger Games
+0,0,0,1,0,1,1,The Hunger Games
+0,1,1,0,0,1,0,The Shining
+0,1,1,1,1,0,0,Donnie Darko
+0,0,1,1,0,0,1,The Shape of Water
+0,0,1,0,0,1,0,The Hangover
+1,0,1,0,0,1,0,The Wolf of Wall Street
+0,0,1,0,0,1,0,Interstellar
+0,0,1,1,0,0,0,Predestination
+1,0,1,0,0,0,1,The Hunger Games
+0,1,0,0,1,1,0,The Exorcist
+1,1,0,0,1,0,0,Happy Death Day
+1,0,0,0,0,0,0,Lucy
+1,0,0,1,0,0,0,Matrix
+1,0,1,0,0,0,0,Fight Club
+1,0,1,1,0,0,0,Matrix
+0,0,0,1,1,1,1,Back to the Future
+1,1,1,1,0,1,1,Inside Out
+0,0,1,0,0,0,0,Me Before You
+0,1,0,0,1,0,0,The Exorcist
+1,0,1,1,0,0,0,Arrival
+0,0,1,0,0,1,0,Inside Out
+1,1,0,1,1,1,0,John Wick
+0,0,0,1,0,0,0,Lucy
+0,0,1,1,1,0,1,Interstellar
+0,0,0,0,0,0,0,The Hangover
+1,0,0,1,0,1,0,Matrix
+1,1,1,1,1,0,0,Arrival
+1,1,0,0,1,0,0,The Exorcist
+0,0,0,0,1,1,0,Gladiator
+0,0,1,0,1,0,0,Predestination
+1,0,1,0,1,0,0,Gladiator
+1,0,0,0,1,1,1,Fast and Furious
+1,1,0,1,0,0,0,Inception
+0,0,1,0,0,0,1,Gravity
+0,1,0,0,0,1,0,Scream
+0,0,1,1,0,0,0,Arrival
+1,1,0,0,0,0,0,Happy Death Day
+1,1,1,1,1,0,1,Split
+0,0,1,1,1,0,0,Inside Out
+0,0,0,0,0,1,0,Back to the Future
+1,0,1,0,1,0,0,Fast and Furious
+1,0,0,1,0,0,0,Lucy
+0,0,1,1,0,0,1,The Shape of Water
+1,0,1,1,1,0,0,The Hunger Games
+0,0,0,0,0,0,1,Titanic
+0,0,0,1,1,0,0,The Conjuring
+1,0,0,0,0,1,1,The Wolf of Wall Street
+1,1,1,0,0,1,0,Split
+1,1,1,1,1,0,0,The Shining
+0,0,0,0,1,1,1,Shrek
+0,0,1,1,0,0,0,Gravity
+0,0,1,1,1,1,0,Predestination
+0,1,1,0,0,0,0,John Wick
+0,1,0,0,1,0,1,Donnie Darko
+1,0,1,1,0,0,0,Titanic
+0,0,1,1,0,0,0,The Hunger Games
+0,1,1,0,0,0,0,Titanic
+1,1,0,1,0,0,0,Matrix
+1,0,1,0,0,1,0,The Wolf of Wall Street
+0,1,1,0,1,0,0,Get Out
+0,0,0,1,1,1,0,Interstellar
+0,0,0,1,0,1,0,Back to the Future
+0,0,0,0,0,0,0,Lucy
+1,0,1,0,1,0,1,The Shining
+0,1,1,1,1,0,1,The Exorcist
+0,1,0,0,1,1,0,Happy Death Day
+0,1,1,0,1,1,0,The Exorcist
+0,1,0,0,1,1,1,The Shining
+0,0,1,1,0,1,1,Inside Out
+1,0,0,0,0,0,0,Fight Club
+0,0,0,1,1,1,0,Inside Out
+0,0,1,0,1,0,0,The Conjuring
+1,0,0,0,0,1,0,John Wick
+0,1,0,0,0,1,0,Happy Death Day
+1,0,1,1,1,0,0,Split
+0,0,1,1,1,1,0,Donnie Darko
+0,0,0,0,0,0,1,Matrix
+1,0,1,0,0,1,0,Gladiator
+0,0,1,0,1,1,0,Split
+0,0,1,1,1,0,1,Her
+1,1,0,1,1,0,0,Lucy
+0,0,1,0,0,1,1,The Notebook
+0,0,1,1,0,0,0,Predestination
+0,1,1,0,1,0,0,Get Out
+0,0,0,1,0,1,1,Shrek
+0,1,0,0,0,0,0,Happy Death Day
+0,0,0,1,0,1,1,Back to the Future
+0,1,1,0,0,1,1,The Wolf of Wall Street
+1,1,1,0,1,0,1,The Shining
+1,0,1,1,0,0,1,Gravity
+0,1,1,0,1,0,1,The Shining
+1,1,1,0,1,0,1,The Shining
+0,0,0,1,0,0,1,Her
+0,0,1,1,1,0,1,Donnie Darko
+0,1,1,1,1,0,0,Donnie Darko
+1,0,0,0,0,1,0,Fast and Furious
+0,1,1,1,1,1,0,Happy Death Day
+1,0,1,1,0,1,1,Interstellar
+1,0,0,1,0,0,0,The Hunger Games
+0,0,1,1,0,0,0,The Hunger Games
+0,0,0,1,1,1,0,Back to the Future
+0,1,1,0,1,0,0,Get Out
+1,0,1,0,1,1,0,Fight Club
+0,1,1,1,1,0,1,Split
+0,0,1,0,0,0,0,Titanic
+0,0,0,0,0,0,0,Lucy
+0,0,1,0,0,1,0,The Hangover
+1,0,1,1,0,0,1,Her
